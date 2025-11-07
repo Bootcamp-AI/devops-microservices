@@ -40,8 +40,8 @@ You may sign up on [CircleCI.com](https://circleci.com/signup/) with your GitHub
 
 #### C.1. AWS Lambda & Serverless
 
-* [Making Change](https://github.com/bootcamp-ai/DevOps_Microservices/tree/master/Lesson-1-Lambda-functions/make-change-tutorial): Create and deploy a serverless lambda function that responds to an input request; this example creates the correct amount of change to make up a value in US dollars.
-* [Wikipedia Query](https://github.com/bootcamp-ai/DevOps_Microservices/tree/master/Lesson-1-Lambda-functions/wikipedia-query): Deploy a lambda function that responds to an input, wikipedia page query; this example returns the first sentence of a specific wikipedia page upon being queried.
+* [Making Change](https://github.com/Bootcamp-AI/devops-microservices/tree/main/Lesson-1-Lambda-functions/make-change-tutorial): Create and deploy a serverless lambda function that responds to an input request; this example creates the correct amount of change to make up a value in US dollars.
+* [Wikipedia Query](https://github.com/Bootcamp-AI/devops-microservices/tree/main/Lesson-1-Lambda-functions/wikipedia-query): Deploy a lambda function that responds to an input, wikipedia page query; this example returns the first sentence of a specific wikipedia page upon being queried.
 
 
 ### D. Project Instructions
